@@ -1,2 +1,2 @@
-# Loading-saving-and-describing-data-
+# Exploratory analysis to nutrition data
 This dataset contains information on the eating,general habits and health of 54 respondents who completed a nutrition survey similar to a food frequency questionnaire.This data will be used to find associations between food and different outcomes using P-values.The data  is in a csv file, flat file database ,structured (rows and column), delimited format.Delimiters used: commas and quotes
